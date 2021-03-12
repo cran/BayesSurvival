@@ -91,7 +91,7 @@ PlotBayesSurv <- function(bayes.surv.object,
     if(legend == F){gg <- gg + theme(legend.position = "none")}
     gg <- gg + ylim(c(0, 1))
     gg <- gg + labs(title = plot.title)  + xlab(xlab) + ylab(ylab)
-    print(gg)
+    #print(gg)
     return(gg)
   } #end survival
 
@@ -124,7 +124,7 @@ PlotBayesSurv <- function(bayes.surv.object,
                      legend.text = element_text(size = 12))
     if(legend == F){gg <- gg + theme(legend.position = "none")}
     gg <- gg + labs(title = plot.title)  + xlab(xlab) + ylab(ylab)
-    print(gg)
+    #print(gg)
     return(gg)
   } #end cumhaz
 
@@ -144,7 +144,7 @@ PlotBayesSurv <- function(bayes.surv.object,
     gg <- gg + theme(axis.text.y = element_text(size = 12))
     gg <- gg + theme(legend.position = "none")
     gg <- gg + labs(title = plot.title)  + xlab(xlab) + ylab(ylab)
-    print(gg)
+    #print(gg)
     return(gg)
   } #end hazard
 

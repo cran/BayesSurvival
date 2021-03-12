@@ -1,10 +1,11 @@
-28baa1758df5d65709a157ab9599a396 *DESCRIPTION
+4a4d7f1d41393b5ddbf58a10cb6d590b *DESCRIPTION
 9f684a46ff7f67c24786f802d6f7a4a7 *NAMESPACE
-f7529bb1afb77f84b9432edbf9c2b0f6 *R/BayesSurv.R
+be2dfa69cefb845a241be17a1870e358 *NEWS.md
+da3d89deff737be8dd4d760a763ef178 *R/BayesSurv.R
 78e6f6548b03fbe604cf414f50e04776 *R/CumhazEval.R
 4e8f6e1f5367f769b65c29dcb3bf980b *R/MCMCDepGammaFirst.R
 bc6b323a3af8a433269c43dbe194b953 *R/MCMCDepGammaIntermediate.R
-6a29b67cf788c542cd8f426f71756d63 *R/PlotBayesSurv.R
+bc31fb7d2ee1609a4b6f23835dc5fa96 *R/PlotBayesSurv.R
 7a9e7669f429ab21dfc105bd5f59c8af *R/RadiusCredibleSet.R
 8253027f041506b2e00d24a5efa69208 *R/ReshapeData.R
 004d22b74881d2c97b52871ce691575c *R/SamplePosteriorDepGamma.R
@@ -12,7 +13,11 @@ de1a20daf6444925ccc5f8fdcc4a611c *R/SamplePosteriorIndepGamma.R
 15ed6bc64662bc60cf6e7bec62449a9b *R/SurvEval.R
 0689906b3b1d13ac0e61eeb9de74baad *R/SurvivalFromCumhaz.R
 b836e33472867c7e4ce825d8c958a2e6 *README.md
-52002e81e749a2edccd3cb2030912e55 *man/BayesSurv.Rd
+b47603e07d4ea3dffaf6516fddba87c8 *build/vignette.rds
+08650921f5266bd5f41e6619d206d19e *inst/doc/VignetteBayesSurvival.R
+7239ffe99d2e9393170fe21b4d6f8e19 *inst/doc/VignetteBayesSurvival.Rmd
+d8b96419f7db8603b24dc82c03fb58db *inst/doc/VignetteBayesSurvival.html
+00c201a1c6d383f2dd96d849ffb7d59f *man/BayesSurv.Rd
 a31f35eb3c93ad631e32799c4a7f8f14 *man/CumhazEval.Rd
 aa27d3495752ddc0dfb67c75ecdb3192 *man/MCMCDepGammaFirst.Rd
 c84397b5b2d8d073d4a22b484fb75572 *man/MCMCDepGammaIntermediate.Rd
@@ -29,3 +34,4 @@ eea737b09aa7f28c525b5c27092759a7 *man/figures/README-example-2.png
 85c23a54f393fd7d56f1efb2b2f3ac45 *man/figures/README-example-4.png
 fe60a57a1e1074be65191c8ac9867646 *man/figures/README-example-5.png
 fe60a57a1e1074be65191c8ac9867646 *man/figures/README-example-6.png
+7239ffe99d2e9393170fe21b4d6f8e19 *vignettes/VignetteBayesSurvival.Rmd

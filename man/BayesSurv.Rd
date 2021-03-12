@@ -88,6 +88,8 @@ factor).}
   \item{surv.post.mean}{The posterior mean for the
   survival, given at each value contained in the also returned
   \code{surv.eval.grid}.}
+  \item{surv.radius}{The radius for the credible set for
+  the survival.}
   \item{surv.eval.grid}{The grid on which the
   posterior mean for the survival has been computed. A finer grid can be
   obtained by increasing \code{surv.factor} in the function call.}
